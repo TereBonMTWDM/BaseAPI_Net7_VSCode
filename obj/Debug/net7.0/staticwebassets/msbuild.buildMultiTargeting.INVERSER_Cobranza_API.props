@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\INVERSER_Cobranza_API.props" />
+</Project>
